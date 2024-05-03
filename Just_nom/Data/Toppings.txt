@@ -1,0 +1,3 @@
+'Cheese', '2.50'
+'Pepperoni', '3.00'
+'Mushrooms', '1.75'
